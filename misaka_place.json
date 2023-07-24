@@ -1,0 +1,13 @@
+{
+  "contact": "discord.gg",
+  "templates": [
+    {
+      "name": "Misaka",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/960281309001945148/1133156458041708595/misaka_only.png"
+      ],
+      "x": 307,
+      "y": 1270
+    }
+  ]
+}
